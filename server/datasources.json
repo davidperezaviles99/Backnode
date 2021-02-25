@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "mongodb+srv://catalogo.cbips.mongodb.net/api_catalogo",
+    "port": 47052,
+    "url": "mongodb+srv://david:Hinojosa1**@catalogo.cbips.mongodb.net/api_catalogo",
+    "database": "api_catalogo",
+    "password": "Hinojosa1**",
+    "name": "db",
+    "user": "david",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
